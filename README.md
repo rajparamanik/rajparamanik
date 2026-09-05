@@ -1,31 +1,36 @@
 <!-- Top Minimal Banner -->
-<p align="left">
-  <img src="https://vercel.app" width="100%" alt="Header Banner" />
-</p>
+![Banner](bannerr.png)
 
 # Hi there, I'm Raj! 👋
 
-> **Computer Science & Technology Scholar** with practical experience in frontend development and network security. I am dedicated to constructing responsive web platforms and evaluating network vulnerabilities using modern code stacks.
+> **Computer Science & Engineering** Student with practical experience in frontend development and network security. I am dedicated to constructing responsive web platforms and evaluating network vulnerabilities using modern code stacks.
 
 ---
 
 ### ⚡ Quick Overview
-* 🎓 **Education:** Pursuing a Diploma in Computer Science & Technology.
-* 🛠️ **Current Focus:** Crafting web apps with React and Supabase database architectures.
-* 🛡️ **Interests:** Penetration testing and network structure analysis using Kali Linux.
+* 🎓 **Education:** Pursuing Btech in Computer Science & Engineering.
+* 🛠️ **Current Focus:** Crafting web apps with React and Database architectures.
+* 🛡️ **Interests:** Penetration testing and network structure analysis using Linux.
 
 ---
 
 ### 🛠️ Core Tech Arsenal
 
-#### 🌐 Frontend & Scripting
-![HTML5](https://shields.io) ![CSS3](https://shields.io) ![JavaScript](https://shields.io) ![React](https://shields.io) ![jQuery](https://shields.io)
+#### 🌐 Frontend & Client-Side
+* 🟦 **React** — Building modern, component-driven user interfaces.
+* 🟩 **Node.js** — Developing scalable server-side javascript applications.
+* 🟨 **JavaScript** — Engineering dynamic frontend logic and interactivity.
+* 🟧 **HTML5 & CSS3** — Structuring responsive, mobile-friendly layouts.
 
-#### ⚙️ Back-End & Systems
-![Python](https://shields.io) ![C](https://shields.io) ![Java](https://shields.io) ![Supabase](https://shields.io)
+#### ⚙️ Back-End & Architecture
+* 🐍 **Python** — Scripting automated security tools and data pipelines.
+* ☕ **Java & C** — Implementing software logic and core object-oriented code.
+* 🧠 **Data Structures & Algorithms (DSA)** — Solving complex problems efficiently.
+* ⚡ **REST APIs & Databases** — Connecting secure servers with real-time data storage.
 
-#### 🛡️ Operating Systems & Environments
-![Kali Linux](https://shields.io) ![VS Code](https://shields.io)
+#### 🛡️ Operations & Environment
+* 🐧 **Linux** — Navigating terminals and configuring secure operating systems.
+* 💻 **VS Code** — Customizing primary development workflows and Git integration.
 
 ---
 
@@ -41,17 +46,10 @@
 
 ---
 
-### 📈 GitHub Ecosystem
-<p align="left">
-  <img src="https://vercel.app" alt="GitHub Stats" width="48%"/>
-  <img src="https://vercel.app" alt="Top Languages" width="48%"/>
-</p>
-
----
-
 ### 🤝 Drop a Line
 
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![Email](https://shields.io)](mailto:rajparamanik42@gmail.com)
+* 🖲️ **LinkedIn** — [Linkedin Account](https://www.linkedin.com/in/raj-paramanik-02a339352)
+* 📥 **LeetCode** — [LeetCode](https://leetcode.com/u/rajparamanik01)
+
 
 
