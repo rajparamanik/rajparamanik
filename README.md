@@ -14,28 +14,21 @@
 
 ---
 
-### 🛠️ Core Tech Arsenal
-
+#### 🌐 Frontend & Client-Side
 * 🟦 **React** — Building modern, component-driven user interfaces.
 * 🟩 **Node.js** — Developing scalable server-side javascript applications.
 * 🟨 **JavaScript** — Engineering dynamic frontend logic and interactivity.
 * 🟧 **HTML5 & CSS3** — Structuring responsive, mobile-friendly layouts.
 
+#### ⚙️ Back-End & Architecture
 * 🐍 **Python** — Scripting automated security tools and data pipelines.
 * ☕ **Java & C** — Implementing software logic and core object-oriented code.
 * 🧠 **Data Structures & Algorithms (DSA)** — Solving complex problems efficiently.
 * ⚡ **REST APIs & Databases** — Connecting secure servers with real-time data storage.
 
+#### 🛡️ Operations & Environment
 * 🐧 **Linux** — Navigating terminals and configuring secure operating systems.
 * 💻 **VS Code** — Customizing primary development workflows and Git integration.
-
----
-
-### 🚀 Highlighted Work
-
-* 🍃 **EcoLeaf Website**
-  * Engineered a dynamic web application integrating a Supabase backend.
-  * Configured secure real-time data storage solutions.
 
 ---
 
